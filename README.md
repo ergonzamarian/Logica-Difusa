@@ -36,7 +36,7 @@ PROPOSTA DO SOFTWARE
 INSTALAÇÃO MANUAL BIBLIOTECAS
 -----------------------------
 
-# Caso deseje instalar todas pelo scrip (com um único clique) ou já possua essas bibliotecas instaladas, pule este tópico.
+# Caso deseje instalar todas pelo script (com um único clique) ou já possua essas bibliotecas instaladas, pule este tópico.
 
 # Com o terminal aberto , insira as bibliotecas abaixo, executando uma de cada vez:
 
